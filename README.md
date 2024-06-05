@@ -17,8 +17,7 @@ CrumbShare
 ├── auth.py              # Module for user authentication
 ├── cli.py               # Command-line interface implementation
 ├── requirements.txt     # List of dependencies
-├── README.md            # Project documentation
-└── setup.py             # Setup script for installing the package
+└── README.md            # Project documentation
 ```
 
 ## Installation
