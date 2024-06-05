@@ -10,7 +10,7 @@ CrumbShare is a Python-based application designed to provide secure, end-to-end 
 - Cross-platform compatibility (Windows, macOS, Linux)
 
 ```
-CrumbShare/
+CrumbShare
 │
 ├── encrypt_decrypt.py   # Module for file encryption and decryption
 ├── p2p_connection.py    # Module for establishing P2P connections
