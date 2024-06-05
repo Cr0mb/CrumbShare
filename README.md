@@ -9,6 +9,18 @@ CrumbShare is a Python-based application designed to provide secure, end-to-end 
 - User-friendly command-line interface (CLI)
 - Cross-platform compatibility (Windows, macOS, Linux)
 
+```
+CrumbShare/
+│
+├── encrypt_decrypt.py   # Module for file encryption and decryption
+├── p2p_connection.py    # Module for establishing P2P connections
+├── auth.py              # Module for user authentication
+├── cli.py               # Command-line interface implementation
+├── requirements.txt     # List of dependencies
+├── README.md            # Project documentation
+└── setup.py             # Setup script for installing the package
+```
+
 ## Installation
 1. Clone the repository:
 ```
